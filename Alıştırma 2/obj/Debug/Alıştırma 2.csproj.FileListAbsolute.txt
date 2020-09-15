@@ -1,0 +1,10 @@
+C:\Users\berka\Desktop\Dersler\C#\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Ödevler\Alıştırma 2\Alıştırma 2\bin\Debug\Alıştırma 2.exe.config
+C:\Users\berka\Desktop\Dersler\C#\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Ödevler\Alıştırma 2\Alıştırma 2\bin\Debug\Alıştırma 2.exe
+C:\Users\berka\Desktop\Dersler\C#\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Ödevler\Alıştırma 2\Alıştırma 2\bin\Debug\Alıştırma 2.pdb
+C:\Users\berka\Desktop\Dersler\C#\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Ödevler\Alıştırma 2\Alıştırma 2\obj\Debug\Alıştırma 2.csprojAssemblyReference.cache
+C:\Users\berka\Desktop\Dersler\C#\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Ödevler\Alıştırma 2\Alıştırma 2\obj\Debug\Alıştırma_2.Form1.resources
+C:\Users\berka\Desktop\Dersler\C#\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Ödevler\Alıştırma 2\Alıştırma 2\obj\Debug\Alıştırma_2.Properties.Resources.resources
+C:\Users\berka\Desktop\Dersler\C#\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Ödevler\Alıştırma 2\Alıştırma 2\obj\Debug\Alıştırma 2.csproj.GenerateResource.cache
+C:\Users\berka\Desktop\Dersler\C#\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Ödevler\Alıştırma 2\Alıştırma 2\obj\Debug\Alıştırma 2.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\Dersler\C#\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Ödevler\Alıştırma 2\Alıştırma 2\obj\Debug\Alıştırma 2.exe
+C:\Users\berka\Desktop\Dersler\C#\Uygulama Geliştirerek C# Öğrenin A'dan Z'ye Eğitim Seti\Ödevler\Alıştırma 2\Alıştırma 2\obj\Debug\Alıştırma 2.pdb
